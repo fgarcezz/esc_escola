@@ -1,0 +1,60 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    background-color: dodgerblue;
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}h1#containertitle{
+    text-align: center;
+}button{
+    border-radius: 4px
+}.ipt{
+    border-radius: 4px;
+    width: 200px;
+}.n2{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+}.containercad{
+    background-color: skyblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 550px;
+}body{
+    background-color:royalblue;
+}#divdaform{
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    background-color:gold;
+    margin-left: auto;
+    margin-right: auto;
+}.clonacard{
+    text-shadow: white 2px 1.5px 2px;
+}.des{
+    background-color: white;
+    height: 100%;
+    background: linear-gradient(darkseagreen 40%, deepskyblue 90%);
+}.challenge{
+    border-color: black;
+    background-color:rgb(243, 215, 177);
+}.challenge{
+    width: 600px;
+    text-align: center;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}.iptdes{
+    padding-right: 10px;
+}html{
+    height: 100%;
+}
